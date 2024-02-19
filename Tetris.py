@@ -17,10 +17,6 @@ width=1
 
 fps=60
 
-"""
-    implementar descida rapida
-"""
-
 class Tetris:
     def __init__(self):
         self.dimx = 10
